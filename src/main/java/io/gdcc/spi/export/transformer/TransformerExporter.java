@@ -1,4 +1,3 @@
-
 package io.gdcc.spi.export.transformer;
 
 import java.io.IOException;
